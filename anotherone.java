@@ -1,9 +1,14 @@
-import java.util.Date;
+import java.util.*;
+class anotherone{  
+public static void main(String args[]){  
 
-public class HelloWorld {
-    public static void main(String[] args) {
-        Date now = new Date();
-        System.out.println("Hello Worlbnb d!");
-        System.out.println("now: " + now);
-    }
-}
+
+
+int n=20;
+
+
+	System.out.println("nukber is "+n);
+
+
+}  
+}  
